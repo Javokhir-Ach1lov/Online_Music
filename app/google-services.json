@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717983661704",
+    "project_id": "online-music-7c0bd",
+    "storage_bucket": "online-music-7c0bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717983661704:android:8d63be1c3118c465a7a93d",
+        "android_client_info": {
+          "package_name": "uz.javokhir_apps.onlinemusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBuYxw8_g82wIy7w6omdpNVw-esQRVk8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
